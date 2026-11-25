@@ -1,0 +1,1 @@
+export default {content:["./index.html","./src/**/*.{ts,tsx}"],theme:{extend:{colors:{nepal:{red:"#dc2638",navy:"#102a56"}}}},plugins:[]};
